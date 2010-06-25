@@ -1,0 +1,20 @@
+{
+  "version": "1.0.0",
+  "dependencies": [
+
+  ],
+  "name": "ghoneycutt-vim",
+  "checksums": {
+    "spec/spec_helper.rb": "ca19ec4f451ebc7fdb035b52eae6e909",
+    "README": "5f064c5815316821b25c094a8c175a2d",
+    "files/vimrc-CentOS": "e0f8959f7b603f4c32c933cb897db721",
+    "tests/init.pp": "b651e1a93505b3f5baf094fd19fdc663",
+    "spec/spec.opts": "a600ded995d948e393fbe2320ba8e51c",
+    "metadata.json": "d34d0b70aba36510fbc2df4e667479ef",
+    "Modulefile": "8a6c717a7f12db1e7578ff2c1aa725a1",
+    "manifests/init.pp": "46c2ca72167ef8a2d2abd85a09de9676"
+  },
+  "types": [
+
+  ]
+}
